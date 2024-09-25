@@ -7,7 +7,7 @@
   - 左侧边框间距 
   - 干员头像间距 
 
-将代码和程序放在同一目录下，如图所示于双引号中填入截图文件名以及对应的数据（均先宽后高），保存后就可以run了
+将代码(crop.py)和截图放在同一目录下，如图所示于双引号中填入截图文件名以及对应的数据（均先宽后高），保存后就可以run了
 
 <img width="491" alt="instruction" src="https://github.com/user-attachments/assets/c3195a0d-61d5-48f6-9ae9-b48cfc9db7c2">
 
